@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul10_1302220009\\tpmodul10_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|solutionrelative:tpmodul10_1302220009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul10_1302220009\\tpmodul10_1302220009\\tpmodul10_1302220009.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|solutionrelative:tpmodul10_1302220009\\tpmodul10_1302220009.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul10_1302220009\\tpmodul10_1302220009\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|solutionrelative:tpmodul10_1302220009\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul10_1302220009\\tpmodul10_1302220009\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|solutionrelative:tpmodul10_1302220009\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|c:\\users\\marjauza\\documents\\kuliah\\tugas\\semester 4\\praktikum kpl\\tpmodul10_1302220009\\tpmodul10_1302220009\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ACFBF1-2E3C-439F-B4D4-14F3DB95AE9C}|tpmodul10_1302220009\\tpmodul10_1302220009.csproj|solutionrelative:tpmodul10_1302220009\\controllers\\mahasiswacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MahasiswaController.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\Controllers\\MahasiswaController.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220009\\Controllers\\MahasiswaController.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\Controllers\\MahasiswaController.cs",
+              "RelativeToolTip": "tpmodul10_1302220009\\Controllers\\MahasiswaController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:04:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220009\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\WeatherForecast.cs",
+              "RelativeToolTip": "tpmodul10_1302220009\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:03:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220009\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\Mahasiswa.cs",
+              "RelativeToolTip": "tpmodul10_1302220009\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T14:01:51.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tpmodul10_1302220009.http",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\tpmodul10_1302220009.http",
+              "RelativeDocumentMoniker": "tpmodul10_1302220009\\tpmodul10_1302220009.http",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\tpmodul10_1302220009.http",
+              "RelativeToolTip": "tpmodul10_1302220009\\tpmodul10_1302220009.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T13:58:47.65Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "tpmodul10_1302220009\\Program.cs",
               "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul10_1302220009\\tpmodul10_1302220009\\Program.cs",
               "RelativeToolTip": "tpmodul10_1302220009\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T13:45:40.421Z",
               "EditorCaption": ""
